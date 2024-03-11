@@ -11,5 +11,4 @@ def str_len(lst: list) -> list:
     :param lst: List of strings.
     :return: New list of the lens.
     """
-    x = map(len, lst)
-    return list(x)
+    return [len(word) for word in lst]
