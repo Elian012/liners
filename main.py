@@ -3,7 +3,7 @@
  Purpose: .
  Date: 11.03.2024
 """
-from one_line_func import str_len
+from str_len_func import str_len
 
 
 def main():
