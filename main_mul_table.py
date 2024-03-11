@@ -3,7 +3,7 @@
  Purpose: Runs the function to check if it works.
  Date: 11.03.2024
 """
-from liners.one_line_func_mul_table import mul_table
+from liners.mul_table_func import mul_table
 
 
 def main():
